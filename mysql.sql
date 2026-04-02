@@ -68,5 +68,6 @@ select max(amount) from books;
 select min(amount) from books;
 
 
+-- group by
 
 
